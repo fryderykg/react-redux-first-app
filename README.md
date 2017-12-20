@@ -1,1 +1,1 @@
-Simple test project to learn Redux.
+Simple test project to learn React-Redux.
